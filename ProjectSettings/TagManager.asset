@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - 
+  - Zabor
+  - Animal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Grass
+    uniqueID: 2168629679
+    locked: 0
+  - name: BackGround
+    uniqueID: 1935729327
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Zabor
+    uniqueID: 2114245885
+    locked: 0
+  - name: Animals
+    uniqueID: 2983072935
+    locked: 0
